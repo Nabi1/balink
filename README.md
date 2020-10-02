@@ -1,7 +1,8 @@
 # balink_interviews
 
 ## Install
-Clone projet or downloard zip
+
+Clone projet or download zip
 
 ## Usage
 
