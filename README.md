@@ -2,8 +2,11 @@
 
 ## Install
 
-Clone projet or download zip
+* Clone projet or download zip
+
+* Install with npm:
+`npm start`
 
 ## Usage
 
-Run npm start
+* Run `npm start`
