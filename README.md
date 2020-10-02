@@ -2,7 +2,7 @@
 
 ## Install
 
-* Clone projet or download zip
+* Clone project or download zip
 
 * Install with npm:
 `npm install`
