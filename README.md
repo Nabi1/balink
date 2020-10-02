@@ -5,7 +5,7 @@
 * Clone projet or download zip
 
 * Install with npm:
-`npm start`
+`npm install`
 
 ## Usage
 
