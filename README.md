@@ -1,4 +1,4 @@
-# balink_interviews
+# balink
 
 ## Install
 
